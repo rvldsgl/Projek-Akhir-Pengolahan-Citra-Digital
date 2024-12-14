@@ -1,0 +1,14 @@
+train: E:\02_CODE\PYTHON\Kuliah\PCD\Projek Akhir\license plate detection.v1i.yolov8\train
+
+val: E:\02_CODE\PYTHON\Kuliah\PCD\Projek Akhir\license plate detection.v1i.yolov8\valid
+test: E:\02_CODE\PYTHON\Kuliah\PCD\Projek Akhir\license plate detection.v1i.yolov8\test
+
+nc: 1
+names: ['LicensePlate']
+
+roboflow:
+  workspace: eyantra-twpmn
+  project: license-plate-detection-g15hx
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/eyantra-twpmn/license-plate-detection-g15hx/dataset/1
